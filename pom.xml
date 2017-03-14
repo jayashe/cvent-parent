@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <code-quality.version>1.16</code-quality.version>
+        <code-quality.version>1.17</code-quality.version>
     </properties>
 
     <description>The maven parent for all cvent java artifacts</description>
@@ -347,8 +347,8 @@
         <url>https://github.com/cvent/cvent-parent</url>
         <connection>scm:git:git@github.com/cvent/cvent-parent.git</connection>
         <developerConnection>scm:git:git@github.com:cvent/cvent-parent.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
     <profiles>
         <profile>
